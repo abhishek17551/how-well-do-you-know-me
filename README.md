@@ -3,4 +3,4 @@ It is a fun interactive game where a few questions are asked about myself and ba
 
 This CLI App is markOne project which is part of lessonOne.
 
-You can also play this game via https://replit.com/@SAbhishek1/end-game#index.js?embed=1&output=1 
+You can also play this game live via https://replit.com/@SAbhishek1/end-game#index.js?embed=1&output=1 
